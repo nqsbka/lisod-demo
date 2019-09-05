@@ -1,0 +1,143 @@
+
+.container{
+	width: 100%;
+	max-width: 1200px;
+}
+#header{
+	padding-top: 14px;
+	padding-bottom: 14px;
+}
+.main-contents{
+	padding-top: 42px;
+}
+/*.content{
+	float: left;
+}*/
+.content div{
+	float: left;
+}
+.homepage{
+	width: 100px;
+}
+.service{
+	width: 100px;
+}
+.profile{
+	width: 100px;
+}
+.language{
+	width: 100px;
+}
+.contact{
+	width: 110px;
+}
+.button1{
+	font-family: "Montserrat", Sans-serif;
+    font-size: 0.9em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: white;
+    background-color: #4064d7;
+    border-radius: 50px 50px 50px 50px;
+}
+.button1:hover{
+	background-color: black;
+}
+.home{
+	height: 757px;
+	background-image: url("jantine-doornbos-711322-unsplash.jpg");
+	background-position: center right;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.lisod{
+	padding-top: 290px;
+	padding-right: 75.5px;
+	padding-left: 75.5px;
+	height: 258px;
+}
+.sub-lisod{
+	padding: 10px;
+	float: left;
+}
+.sub-lisod a{
+	color: #4054b2;
+    font-size: 56px;
+    font-weight: 700;
+    letter-spacing: 0px;
+}
+.button2{
+	font-family: "Montserrat", Sans-serif;
+    font-size: 0.9em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #434343;
+    background-color: rgba(64,100,215,0);
+    border-radius: 50px 50px 50px 50px;
+    padding: 15px 30px 15px 30px;
+}
+.button2:hover{
+		background-color: #4064d7;
+}
+.container1{
+	background-color: #F1F1F1;
+	line-height: 1.85714285714286;
+
+}
+.home1{
+	padding-top: 95px;
+	padding-bottom: 20px;
+	text-align: center;
+
+}
+.font1{
+	color: #000000;	
+	font-size: 3em;
+    font-weight: 700;
+    text-decoration: none;
+}
+.home2{
+	width: 100%;
+	
+	padding-left: 75px;
+	padding-right: 75px;
+	margin: 0px;
+}
+.ceo-pic{
+	width: 316.64px;
+	margin: 0px 0px 20px 0px;
+}
+.mission a{
+	color: black;
+	text-decoration: none;
+}
+.font2{
+	font-weight: 900;
+    text-transform: uppercase;
+    color: #000000;
+    font-size: 1.9285714285714rem;
+    margin-bottom: 10px;
+}
+ion-icon{
+	font-size:26px;
+}
+.container2{
+	background-color:white;
+}
+.philosophy{
+	padding-top: 100px;
+	padding-right: 325.5px;
+	padding-left: 325.5px;
+	text-align: center;
+}
+.font4{
+	font-size: 45px;
+    font-weight: 600;
+    line-height: 1.4em;
+    color: #000000;
+}
+.philosophycontent{
+	text-align: center;
+}
